@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning Java and Phyton;
 - 💞️ I’m looking to collaborate everything that I can;
 - 📫 if u wanna talk with me send a e-mail: jeffhunbruey@gmail.com;
- 
- 
